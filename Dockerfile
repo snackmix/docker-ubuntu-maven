@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:8-jdk-slim
 
 MAINTAINER  SnackMix <snackmix_git@protonmail.com>
 
